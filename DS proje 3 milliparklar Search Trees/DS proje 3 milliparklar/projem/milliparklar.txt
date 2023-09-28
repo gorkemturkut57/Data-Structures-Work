@@ -1,0 +1,48 @@
+Yozgat Çamlığı Milli Parkı ;Yozgat ;517;5.02.1958;Yozgat Çamlığı Milli Parkı Yozgat ilinde bulunan bir orman alanıdır.
+Karatepe - Aslantaş Milli Parkı ;Osmaniye ;4143;29.05.1958;Karatepe - Aslantaş Milli Parkı Adıyaman ilinde bulunan bir antik kent ve arkeolojik alandır.
+Soğuksu Milli Parkı; Ankara ;1186;19.02.1959;Soğuksu Milli Parkı Ankara ilinde bulunan bir orman alanı ve göldür.
+Kuşcenneti Milli Parkı; Balıkesir;17058; 27.07.1959;Kuşcenneti Milli Parkı Muğla ilinde bulunan bir kuş cennetidir.
+Uludağ Milli Parkı; Bursa;13024; 20.09.1961;Uludağ Milli Parkı Bursa ilinde bulunan bir dağdır.
+Yedigöller Milli Parkı; Bolu;1623; 29.04.1965;Yedigöller Milli Parkı Bolu ilinde bulunan bir göl bölgesidir.
+Dilek Y. – B. Menderes D. Milli Parkı; Aydın;27598; 19.05.1966;Dilek Y. - B. Menderes D. Milli Parkı Aydın ilinde bulunan bir doğa rezervidir.
+Spil Dağı Milli Parkı; Manisa-İzmir;6801; 22.04.1968;Spil Dağı Milli Parkı Manisa ilinde bulunan bir dağdır.
+Kızıldağ Milli Parkı; Isparta;80200;9.05.1969;Kızıldağ Milli Parkı Isparta ilinde bulunan bir dağdır.
+Güllük Dağı - Termessos Milli Parkı; Antalya;6700; 3.11.1970;Güllük Dağı - Termessos Milli Parkı Antalya ilinde bulunan bir dağ ve antik kent alanıdır.
+Kovada Gölü Milli Parkı; Isparta;6551; 3.11.1970;Kovada Gölü Milli Parkı Isparta ilinde bulunan bir göldür.
+Munzur Vadisi Milli Parkı; Tunceli;42674; 21.12.1971;Munzur Vadisi Milli Parkı Tunceli ilinde bulunan bir vadidir.
+Beydağları Sahil Milli Parkı; Antalya;31166; 16.03.1972;Beydağları Sahil Milli Parkı İzmir ilinde bulunan bir sahil alanıdır.
+Köprülü Kanyon Milli Parkı; Antalya;47473; 12.12.1973;Köprülü Kanyon Milli Parkı Antalya ilinde bulunan bir kanyondur.
+Ilgaz Dağı Milli Parkı; Kastamonu-Çankırı;1118; 2.06.1976;Ilgaz Dağı Milli Parkı Kastamonu ilinde bulunan bir dağdır.
+Başkomutan Tarihi Milli Parkı; Afyonkarahisar-Kütahya-Uşak;34834; 8.11.1981;Başkomutan Tarihi Milli Parkı Ankara ilinde bulunan bir tarihi alandır.
+Altındere Vadisi Milli Parkı; Trabzon;4468; 9.09.1987;Altındere Vadisi Milli Parkı Trabzon ilinde bulunan bir vadidir.
+Boğazköy – Alacahöyük Milli Parkı; Çorum;2600; 21.09.1988;Boğazköy - Alacahöyük Milli Parkı Çorum ilinde bulunan bir antik kent alanıdır.
+Nemrut Dağı Milli Parkı; Adıyaman-Malatya;13827; 7.12.1988;Nemrut Dağı Milli Parkı Adıyaman ilinde bulunan bir dağdır.
+Beyşehir Gölü Milli Parkı; Konya;82157; 11.01.1993;Beyşehir Gölü Milli Parkı Konya ilinde bulunan bir göldür.
+Kazdağı Milli Parkı; Balıkesir;20935; 17.04.1994;Kazdağı Milli Parkı Balıkesir ve Çanakkale il sınırlarında bulunan bir dağdır
+Altınbeşik Mağarası Milli Parkı; Antalya;1147; 31.08.1994;Altınbeşik Mağarası Milli Parkı Muğla ilinde bulunan bir mağaradır.
+Hatila Vadisi Milli Parkı; Artvin;16944; 31.08.1994;Hatila Vadisi Milli Parkı Artvin ilinde bulunan bir vadidir.
+Karagöl – Sahara Milli Parkı; Artvin;3251; 31.08.1994;Karagöl – Sahara Milli Parkı Artvin bölgesinde yer alan bir milli parktır.
+Kaçkar Dağları Milli Parkı; Artvin-Erzurum-Rize;52970; 31.08.1994;Kaçkar Dağları Milli Parkı Rize bölgesinde yer alan bir milli parktır.
+Aladağlar Milli Parkı; Adana-Kayseri-Niğde;55064; 21.04.1995;Aladağlar Milli Parkı Niğde bölgesinde yer alan bir milli parktır.
+Marmaris Milli Parkı; Muğla;29206; 8.03.1996;Marmaris Milli Parkı Muğla bölgesinde yer alan bir milli parktır.
+Saklıkent Milli Parkı; Muğla-Antalya;1643; 6.06.1996;Saklıkent Milli Parkı Antalya bölgesinde yer alan bir milli parktır.
+Troya Tarihi Milli Parkı; Çanakkale;13517; 7.11.1996;Troya Tarihi Milli Parkı Çanakkale bölgesinde yer alan bir milli parktır.
+Honaz Dağı Milli Parkı; Denizli;9429; 21.04.1998;Honaz Dağı Milli Parkı Denizli bölgesinde yer alan bir milli parktır.
+Küre Dağları Milli Parkı; Bartın-Kastamonu;37753; 7.07.2000;Küre Dağları Milli Parkı Kastamonu bölgesinde yer alan bir milli parktır.
+Sarıkamış-Allahuekber Dağları Milli Parkı; Erzurum-Kars;22520; 19.10.2004;Sarıkamış-Allahuekber Dağları Milli Parkı Kars bölgesinde yer alan bir milli parktır.
+Ağrı Dağı Milli Parkı; Ağrı-Iğdır;88015; 17.11.2004;Ağrı Dağı Milli Parkı Ağrı bölgesinde yer alan bir milli parktır.
+Gala Gölü Milli Parkı; Edirne;5923; 5.03.2005;Gala Gölü Milli Parkı Kars bölgesinde yer alan bir milli parktır.
+Sultan Sazlığı Milli Parkı; Kayseri;24358; 17.03.2006;Sultan Sazlığı Milli Parkı Kocaeli bölgesinde yer alan bir milli parktır.
+Tek Tek Dağları Milli Parkı; Şanlıurfa;19335; 29.05.2007;Tek Tek Dağları Milli Parkı Artvin bölgesinde yer alan bir milli parktır.
+İğneada Longoz Ormanları Milli Parkı; Kırklareli;3155; 13.11.2007;İğneada Longoz Ormanları Milli Parkı Kırklareli bölgesinde yer alan bir milli parktır.
+Yumurtalık Lagünü Milli Parkı; Adana;16980; 6.12.2008;Yumurtalık Lagünü Milli Parkı Adana bölgesinde yer alan bir milli parktır.
+Nene Hatun Tarihi Milli Parkı; Erzurum;387; 6.06.2009;Nene Hatun Tarihi Milli Parkı Kars bölgesinde yer alan bir milli parktır.
+Sakarya Meydan Muharebesi Tarihi Milli Parkı; Ankara;13850; 8.02.2015;Sakarya Meydan Muharebesi Tarihi Milli Parkı Sakarya bölgesinde yer alan bir milli parktır.
+Kop Dağı Müdafaası Tarihi Milli Parkı; Bayburt-Erzurum;6335; 15.11.2016;Kop Dağı Müdafaası Tarihi Milli Parkı Kars bölgesinde yer alan bir milli parktır.
+Malazgirt Meydan Muharebesi Tarihi Milli Parkı; Muş;238;17.03.2018;Malazgirt Meydan Muharebesi Tarihi Milli Parkı Muş bölgesinde yer alan bir milli parktır.
+İstiklal Yolu Tarihi Milli Parkı; Ankara-Çankırı-Kastamonu;236; 2.11.2018;İstiklal Yolu Tarihi Milli Parkı Ankara bölgesinde yer alan bir milli parktır.
+Botan Vadisi Milli Parkı; Siirt;11358; 15.08.2019;Botan Vadisi Milli Parkı Güneydoğu Anadolu bölgesinde yer alan bir milli parktır.
+Hakkari Cilo ve Sat Dağları Milli Parkı; Hakkari;27500; 26.09.2020;Hakkari Cilo ve Sat Dağları Milli Parkı Hakkari ilinde bulunan zengin bitki örtüsüne sahip bir milli parktır.
+Sarıçalı Dağı Milli Parkı; Ankara;1024; 28.10.2021;Sarıçalı Dağı Milli Parkı Ankara ilinde bulunan bir milli parktır.
+Derebucak Çamlık Mağaraları Milli Parkı; Konya ;1147; 7.06.2022;Derebucak Çamlık Mağaraları Milli Parkı Konya ilinde bulunan mağara sistemlerine sahip bir milli parktır.
+Abant Gölü Milli Parkı; Bolu;1262; 10.06.2022;Abant Gölü Milli Parkı Bolu ilinde bulunan bir milli parktır ve doğal güzellikleriyle ünlüdür.
